@@ -1,0 +1,13 @@
+# Runtime and private outputs
+.DS_Store
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+projects/
+private/
+exports/
+my-data.js
